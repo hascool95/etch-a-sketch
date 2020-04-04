@@ -1,0 +1,21 @@
+html {
+    background-color: pink;
+}
+
+.top-container {
+    text-align: center;
+}
+
+button {
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+
+.container {
+    height: 800px;
+    width: 800px;
+    background-color: darkkhaki;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
